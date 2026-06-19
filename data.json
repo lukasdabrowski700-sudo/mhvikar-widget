@@ -1,10 +1,10 @@
 {
   "lønperiode": "12. jun – 26. jun 2026",
   "næsteLøndag": "26. jun 2026",
-  "bruttoLøn": 12865,
-  "antalVagter": 7,
-  "samletTimer": 41,
-  "sidstOpdateret": "19/06 kl. 12:15",
+  "bruttoLøn": 14554,
+  "antalVagter": 8,
+  "samletTimer": 47,
+  "sidstOpdateret": "19/06 kl. 13:00",
   "vagter": [
     {
       "dato": "Man 15/06",
@@ -35,6 +35,12 @@
       "sted": "Nr. Bjert, Kolding",
       "timer": 5,
       "beløb": 2055
+    },
+    {
+      "dato": "Man 22/06",
+      "sted": "Assens Helhedspleje, Årup",
+      "timer": 6,
+      "beløb": 1689
     },
     {
       "dato": "Tir 23/06",
