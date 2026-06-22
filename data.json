@@ -1,11 +1,17 @@
 {
   "lønperiode": "12. jun – 26. jun 2026",
   "næsteLøndag": "26. jun 2026",
-  "bruttoLøn": 17152,
-  "antalVagter": 9,
-  "samletTimer": 55,
-  "sidstOpdateret": "22/06 kl. 11:30",
+  "bruttoLøn": 18954,
+  "antalVagter": 10,
+  "samletTimer": 61,
+  "sidstOpdateret": "22/06 kl. 16:00",
   "vagter": [
+    {
+      "dato": "Fre 12/06",
+      "sted": "Dyrehaven, Kolding",
+      "timer": 6,
+      "beløb": 1802
+    },
     {
       "dato": "Man 15/06",
       "sted": "Dyrehaven, Kolding",
@@ -25,7 +31,7 @@
       "beløb": 1802
     },
     {
-      "dato": "Tor 19/06",
+      "dato": "Fre 19/06",
       "sted": "Dyrehaven, Kolding",
       "timer": 6,
       "beløb": 1802
