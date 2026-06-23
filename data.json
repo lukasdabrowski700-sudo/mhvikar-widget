@@ -1,75 +1,26 @@
 {
   "lønperiode": "12. jun – 26. jun 2026",
   "næsteLøndag": "26. jun 2026",
-  "bruttoLøn": 18954,
-  "antalVagter": 10,
-  "samletTimer": 61,
-  "sidstOpdateret": "22/06 kl. 16:00",
   "vagter": [
     {
-      "dato": "Fre 12/06",
-      "sted": "Dyrehaven, Kolding",
-      "timer": 6,
-      "beløb": 1802
-    },
-    {
-      "dato": "Man 15/06",
-      "sted": "Dyrehaven, Kolding",
-      "timer": 6,
-      "beløb": 1802
-    },
-    {
-      "dato": "Tir 16/06",
-      "sted": "Dyrehaven, Kolding",
-      "timer": 6,
-      "beløb": 1802
-    },
-    {
-      "dato": "Ons 17/06",
-      "sted": "Dyrehaven, Kolding",
-      "timer": 6,
-      "beløb": 1802
-    },
-    {
-      "dato": "Fre 19/06",
-      "sted": "Dyrehaven, Kolding",
-      "timer": 6,
-      "beløb": 1802
-    },
-    {
-      "dato": "Søn 21/06",
-      "sted": "Nr. Bjert, Kolding",
-      "timer": 5,
-      "beløb": 2055
-    },
-    {
       "dato": "Man 22/06",
-      "sted": "Assens Helhedspleje, Årup",
-      "timer": 6,
-      "beløb": 1689
-    },
-    {
-      "dato": "Man 22/06",
-      "sted": "Nr. Bjert, Kolding",
+      "tid": "15:30–23:30",
+      "sted": "Kolding Nr. Bjert distrikt 3",
       "timer": 8,
-      "beløb": 2598
-    },
-    {
-      "dato": "Tir 23/06",
-      "sted": "Dyrehaven, Kolding",
-      "timer": 6,
-      "beløb": 1802
-    },
-    {
-      "dato": "Ons 24/06",
-      "sted": "Dyrehaven, Kolding",
-      "timer": 6,
-      "beløb": 1802
+      "type": "hverdag",
+      "ny": true
     }
   ],
-  "afbookede": [
+  "antalVagter": 11,
+  "antalTimer": 69,
+  "bruttoLøn": 20498.8,
+  "nettoLøn": 15989.06,
+  "sidstOpdateret": "23. jun 2026",
+  "note": "Inkl. ny vagt Man 22/06 15:30-23:30 (8t). Bogense 22/06 07-13 afmeldt.",
+  "afmeldte": [
     {
       "dato": "Man 22/06",
+      "tid": "07:00–13:00",
       "sted": "Bogense Hjemmepleje"
     }
   ]
