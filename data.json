@@ -1,25 +1,79 @@
 {
   "lønperiode": "12. jun – 26. jun 2026",
   "næsteLøndag": "26. jun 2026",
+  "antalVagter": 10,
+  "antalTimer": 61,
+  "bruttoLøn": 12261.85,
+  "nettoLøn": 9564.24,
+  "SU": 4605.0,
+  "totalUdbetaling": 14169.24,
+  "sidstOpdateret": "23. jun 2026",
   "vagter": [
     {
-      "dato": "Man 22/06",
+      "dato": "12/06 Fre",
+      "tid": "07:00–13:00",
+      "sted": "Kolding Distrikt 7 Dyrehaven",
+      "timer": 6
+    },
+    {
+      "dato": "15/06 Man",
+      "tid": "07:00–13:00",
+      "sted": "Kolding Distrikt 7 Dyrehaven",
+      "timer": 6
+    },
+    {
+      "dato": "16/06 Tir",
+      "tid": "07:00–13:00",
+      "sted": "Kolding Distrikt 7 Dyrehaven",
+      "timer": 6
+    },
+    {
+      "dato": "17/06 Ons",
+      "tid": "07:00–13:00",
+      "sted": "Kolding Distrikt 7 Dyrehaven",
+      "timer": 6
+    },
+    {
+      "dato": "19/06 Fre",
+      "tid": "07:00–13:00",
+      "sted": "Kolding Distrikt 7 Dyrehaven",
+      "timer": 6
+    },
+    {
+      "dato": "21/06 Søn",
+      "tid": "07:00–12:00",
+      "sted": "Nr. Bjert distrikt 3",
+      "timer": 5,
+      "weekend": true
+    },
+    {
+      "dato": "22/06 Man",
+      "tid": "07:00–13:00",
+      "sted": "Assens Helhedspleje Årup",
+      "timer": 6
+    },
+    {
+      "dato": "22/06 Man",
       "tid": "15:30–23:30",
-      "sted": "Kolding Nr. Bjert distrikt 3",
-      "timer": 8,
-      "type": "hverdag",
-      "ny": true
+      "sted": "Nr. Bjert distrikt 3",
+      "timer": 8
+    },
+    {
+      "dato": "23/06 Tir",
+      "tid": "07:00–13:00",
+      "sted": "Kolding Distrikt 7 Dyrehaven",
+      "timer": 6
+    },
+    {
+      "dato": "24/06 Ons",
+      "tid": "07:00–13:00",
+      "sted": "Kolding Distrikt 7 Dyrehaven",
+      "timer": 6
     }
   ],
-  "antalVagter": 11,
-  "antalTimer": 69,
-  "bruttoLøn": 20498.8,
-  "nettoLøn": 15989.06,
-  "sidstOpdateret": "23. jun 2026",
-  "note": "Inkl. ny vagt Man 22/06 15:30-23:30 (8t). Bogense 22/06 07-13 afmeldt.",
   "afmeldte": [
     {
-      "dato": "Man 22/06",
+      "dato": "22/06 Man",
       "tid": "07:00–13:00",
       "sted": "Bogense Hjemmepleje"
     }
