@@ -1,81 +1,89 @@
 {
-  "lønperiode": "12. jun – 26. jun 2026",
-  "næsteLøndag": "26. jun 2026",
-  "antalVagter": 10,
-  "antalTimer": 61,
-  "bruttoLøn": 19384.11,
-  "nettoLøn": 15119.61,
+  "lønperiode": "26. jun – 12. jul 2026",
+  "næsteLøndag": "12. jul 2026",
+  "antalVagter": 8,
+  "antalTimer": 56,
+  "bruttoLøn": 18675.12,
+  "nettoLøn": 14566.59,
+  "kørselIAlt": 2805.28,
+  "weekendTillægIAlt": 2220.22,
   "SU": 7600.0,
-  "SUDato": "1. jul 2026",
-  "sidstOpdateret": "23. jun 2026",
+  "SUDato": "1. aug 2026",
+  "sidstOpdateret": "2. jul 2026",
   "vagter": [
     {
-      "dato": "12/06 Fre",
+      "dato": "01/07 Ons",
+      "isoDato": "2026-07-01",
       "tid": "07:00–13:00",
+      "timer": 6,
       "sted": "Kolding Distrikt 7 Dyrehaven",
-      "beløb": 1850.95
+      "beløb": 1801.70
     },
     {
-      "dato": "15/06 Man",
+      "dato": "02/07 Tor",
+      "isoDato": "2026-07-02",
       "tid": "07:00–13:00",
+      "timer": 6,
       "sted": "Kolding Distrikt 7 Dyrehaven",
-      "beløb": 1850.95
+      "beløb": 1801.70
     },
     {
-      "dato": "16/06 Tir",
+      "dato": "03/07 Fre",
+      "isoDato": "2026-07-03",
       "tid": "07:00–13:00",
+      "timer": 6,
       "sted": "Kolding Distrikt 7 Dyrehaven",
-      "beløb": 1850.95
+      "beløb": 1801.70
     },
     {
-      "dato": "17/06 Ons",
-      "tid": "07:00–13:00",
-      "sted": "Kolding Distrikt 7 Dyrehaven",
-      "beløb": 1850.95
-    },
-    {
-      "dato": "19/06 Fre",
-      "tid": "07:00–13:00",
-      "sted": "Kolding Distrikt 7 Dyrehaven",
-      "beløb": 1850.95
-    },
-    {
-      "dato": "21/06 Søn",
-      "tid": "07:00–12:00",
-      "sted": "Nr. Bjert distrikt 3",
-      "beløb": 2140.82,
+      "dato": "04/07 Lør",
+      "isoDato": "2026-07-04",
+      "tid": "07:00–15:00",
+      "timer": 8,
+      "sted": "Assens Helhedspleje Årup",
+      "beløb": 2793.16,
       "weekend": true
     },
     {
-      "dato": "22/06 Man",
+      "dato": "05/07 Søn",
+      "isoDato": "2026-07-05",
       "tid": "07:00–13:00",
-      "sted": "Assens Helhedspleje Årup",
-      "beløb": 1688.56
-    },
-    {
-      "dato": "22/06 Man",
-      "tid": "15:30–23:30",
-      "sted": "Nr. Bjert distrikt 3",
-      "beløb": 2598.09
-    },
-    {
-      "dato": "23/06 Tir",
-      "tid": "07:00–13:00",
+      "timer": 6,
       "sted": "Kolding Distrikt 7 Dyrehaven",
-      "beløb": 1850.95
+      "beløb": 2795.12,
+      "weekend": true
     },
     {
-      "dato": "24/06 Ons",
-      "tid": "07:00–13:00",
+      "dato": "08/07 Ons",
+      "isoDato": "2026-07-08",
+      "tid": "07:00–15:00",
+      "timer": 8,
       "sted": "Kolding Distrikt 7 Dyrehaven",
-      "beløb": 1850.95
+      "beløb": 2270.93
+    },
+    {
+      "dato": "10/07 Fre",
+      "isoDato": "2026-07-10",
+      "tid": "07:00–15:00",
+      "timer": 8,
+      "sted": "Kolding Distrikt 7 Dyrehaven",
+      "beløb": 2270.93
+    },
+    {
+      "dato": "11/07 Lør",
+      "isoDato": "2026-07-11",
+      "tid": "07:00–15:00",
+      "timer": 8,
+      "sted": "Kolding Distrikt 8 Munkevænget",
+      "beløb": 3139.88,
+      "weekend": true
     }
   ],
   "afmeldte": [
     {
-      "dato": "22/06 Man",
+      "dato": "29/06 Man",
       "tid": "07:00–13:00",
-      "sted": "Bogense Hjemmepleje"
+      "sted": "Kolding Distrikt 7 Dyrehaven"
     }
   ]
 }
