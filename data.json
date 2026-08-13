@@ -1,16 +1,32 @@
 {
   "lønperiode": "13. aug – 26. aug 2026",
   "næsteLøndag": "26. aug 2026",
-  "antalVagter": 1,
-  "antalTimer": 8,
-  "bruttoLøn": 2432.61,
-  "nettoLøn": 1897.44,
-  "kørselIAlt": 173.36,
-  "weekendTillægIAlt": 0,
+  "antalVagter": 3,
+  "antalTimer": 21.5,
+  "bruttoLøn": 7264.66,
+  "nettoLøn": 5666.43,
+  "kørselIAlt": 220.64,
+  "weekendTillægIAlt": 764.67,
   "SU": 4605.0,
   "SUDato": "1. sep 2026",
   "sidstOpdateret": "13. aug 2026",
   "vagter": [
+    {
+      "dato": "06/08 Tor",
+      "isoDato": "2026-08-06",
+      "tid": "15:00–23:00",
+      "timer": 8,
+      "sted": "Assens Helhedspleje Årup/Vissenbjerg",
+      "beløb": 2681.41
+    },
+    {
+      "dato": "09/08 Søn",
+      "isoDato": "2026-08-09",
+      "tid": "17:00–22:30",
+      "timer": 5.5,
+      "sted": "Otterup Udekørende",
+      "beløb": 2150.64
+    },
     {
       "dato": "13/08 Tor",
       "isoDato": "2026-08-13",
