@@ -1,15 +1,15 @@
 {
   "lønperiode": "13. aug – 26. aug 2026",
   "næsteLøndag": "26. aug 2026",
-  "antalVagter": 3,
-  "antalTimer": 21.5,
-  "bruttoLøn": 7264.66,
-  "nettoLøn": 5666.43,
-  "kørselIAlt": 220.64,
+  "antalVagter": 6,
+  "antalTimer": 45,
+  "bruttoLøn": 14240.05,
+  "nettoLøn": 11107.24,
+  "kørselIAlt": 559.48,
   "weekendTillægIAlt": 764.67,
   "SU": 4605.0,
   "SUDato": "1. sep 2026",
-  "sidstOpdateret": "13. aug 2026",
+  "sidstOpdateret": "24. aug 2026",
   "vagter": [
     {
       "dato": "06/08 Tor",
@@ -34,6 +34,30 @@
       "timer": 8,
       "sted": "Assens Helhedspleje Assens",
       "beløb": 2432.61
+    },
+    {
+      "dato": "17/08 Man",
+      "isoDato": "2026-08-17",
+      "tid": "15:30–23:30",
+      "timer": 8,
+      "sted": "Kolding Nr. Bjert distrikt 3",
+      "beløb": 2598.09
+    },
+    {
+      "dato": "20/08 Tor",
+      "isoDato": "2026-08-20",
+      "tid": "15:30–23:30",
+      "timer": 8,
+      "sted": "Aftengruppen Syd/Vest - Basis",
+      "beløb": 2259.25
+    },
+    {
+      "dato": "24/08 Man",
+      "isoDato": "2026-08-24",
+      "tid": "15:30–23:00",
+      "timer": 7.5,
+      "sted": "Kærgården Plejecenter administrationen",
+      "beløb": 2118.05
     }
   ],
   "afmeldte": []
