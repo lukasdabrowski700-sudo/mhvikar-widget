@@ -1,63 +1,33 @@
 {
-  "lønperiode": "13. aug – 26. aug 2026",
-  "næsteLøndag": "26. aug 2026",
-  "antalVagter": 6,
-  "antalTimer": 45,
-  "bruttoLøn": 14240.05,
-  "nettoLøn": 11107.24,
-  "kørselIAlt": 559.48,
-  "weekendTillægIAlt": 764.67,
+  "lønperiode": "27. aug – 11. sep 2026",
+  "næsteLøndag": "12. sep 2026",
+  "antalVagter": 2,
+  "antalTimer": 17,
+  "bruttoLøn": 4800.98,
+  "nettoLøn": 3744.76,
+  "kørselIAlt": 0,
+  "weekendTillægIAlt": 0,
   "SU": 4605.0,
   "SUDato": "1. sep 2026",
-  "sidstOpdateret": "24. aug 2026",
+  "sidstOpdateret": "27. aug 2026",
   "vagter": [
     {
-      "dato": "06/08 Tor",
-      "isoDato": "2026-08-06",
-      "tid": "15:00–23:00",
-      "timer": 8,
-      "sted": "Assens Helhedspleje Årup/Vissenbjerg",
-      "beløb": 2681.41
+      "dato": "27/08 Tor",
+      "isoDato": "2026-08-27",
+      "tid": "14:45–23:15",
+      "timer": 8.5,
+      "sted": "Odense aften syd/vest",
+      "beløb": 2400.49,
+      "estimeret": true
     },
     {
-      "dato": "09/08 Søn",
-      "isoDato": "2026-08-09",
-      "tid": "17:00–22:30",
-      "timer": 5.5,
-      "sted": "Otterup Udekørende",
-      "beløb": 2150.64
-    },
-    {
-      "dato": "13/08 Tor",
-      "isoDato": "2026-08-13",
-      "tid": "15:00–23:00",
-      "timer": 8,
-      "sted": "Assens Helhedspleje Assens",
-      "beløb": 2432.61
-    },
-    {
-      "dato": "17/08 Man",
-      "isoDato": "2026-08-17",
-      "tid": "15:30–23:30",
-      "timer": 8,
-      "sted": "Kolding Nr. Bjert distrikt 3",
-      "beløb": 2598.09
-    },
-    {
-      "dato": "20/08 Tor",
-      "isoDato": "2026-08-20",
-      "tid": "15:30–23:30",
-      "timer": 8,
-      "sted": "Aftengruppen Syd/Vest - Basis",
-      "beløb": 2259.25
-    },
-    {
-      "dato": "24/08 Man",
-      "isoDato": "2026-08-24",
-      "tid": "15:30–23:00",
-      "timer": 7.5,
-      "sted": "Kærgården Plejecenter administrationen",
-      "beløb": 2118.05
+      "dato": "28/08 Fre",
+      "isoDato": "2026-08-28",
+      "tid": "14:45–23:15",
+      "timer": 8.5,
+      "sted": "Odense aften syd/vest",
+      "beløb": 2400.49,
+      "estimeret": true
     }
   ],
   "afmeldte": []
