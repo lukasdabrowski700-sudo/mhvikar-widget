@@ -1,16 +1,34 @@
 {
-  "lønperiode": "27. aug – 11. sep 2026",
+  "lønperiode": "20. aug – 11. sep 2026",
   "næsteLøndag": "12. sep 2026",
-  "antalVagter": 3,
-  "antalTimer": 24,
-  "bruttoLøn": 6777.82,
-  "nettoLøn": 5286.70,
+  "antalVagter": 5,
+  "antalTimer": 39.5,
+  "bruttoLøn": 11155.12,
+  "nettoLøn": 8700.99,
   "kørselIAlt": 0,
   "weekendTillægIAlt": 0,
   "SU": 4605.0,
   "SUDato": "1. sep 2026",
   "sidstOpdateret": "1. sep 2026",
   "vagter": [
+    {
+      "dato": "20/08 Tor",
+      "isoDato": "2026-08-20",
+      "tid": "15:30–23:30",
+      "timer": 8,
+      "sted": "Aftengruppen Syd/Vest - Basis, Odense S",
+      "beløb": 2259.25,
+      "estimeret": false
+    },
+    {
+      "dato": "24/08 Man",
+      "isoDato": "2026-08-24",
+      "tid": "15:30–23:00",
+      "timer": 7.5,
+      "sted": "Kærgården Plejecenter administrationen, Otterup",
+      "beløb": 2118.05,
+      "estimeret": false
+    },
     {
       "dato": "27/08 Tor",
       "isoDato": "2026-08-27",
