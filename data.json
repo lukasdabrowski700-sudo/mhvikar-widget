@@ -1,15 +1,15 @@
 {
   "lønperiode": "27. aug – 11. sep 2026",
   "næsteLøndag": "12. sep 2026",
-  "antalVagter": 2,
-  "antalTimer": 17,
-  "bruttoLøn": 4800.98,
-  "nettoLøn": 3744.76,
+  "antalVagter": 3,
+  "antalTimer": 24,
+  "bruttoLøn": 6777.82,
+  "nettoLøn": 5286.70,
   "kørselIAlt": 0,
   "weekendTillægIAlt": 0,
   "SU": 4605.0,
   "SUDato": "1. sep 2026",
-  "sidstOpdateret": "27. aug 2026",
+  "sidstOpdateret": "1. sep 2026",
   "vagter": [
     {
       "dato": "27/08 Tor",
@@ -28,7 +28,23 @@
       "sted": "Odense aften syd/vest",
       "beløb": 2400.49,
       "estimeret": true
+    },
+    {
+      "dato": "01/09 Tir",
+      "isoDato": "2026-09-01",
+      "tid": "16:00–23:00",
+      "timer": 7,
+      "sted": "Kærgården Plejecenter administrationen, Otterup",
+      "beløb": 1976.84,
+      "estimeret": false
     }
   ],
-  "afmeldte": []
+  "afmeldte": [
+    {
+      "dato": "01/09 Tir",
+      "tid": "15:00–23:00",
+      "sted": "Kærgården Plejecenter administrationen, Otterup",
+      "note": "Erstattet af ny vagt 16:00-23:00 samme dag"
+    }
+  ]
 }
